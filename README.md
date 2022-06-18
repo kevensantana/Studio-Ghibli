@@ -7,5 +7,5 @@
 - Reponsividade
 
 <div align="center">
-  <img src="./assets/layoutDesafio5.png">
+  <img src="./assets/LayoutDesafio5.png">
 </div>
